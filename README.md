@@ -34,6 +34,19 @@ Main fields include:
 - VIX
 - Target
 
+### Data Source
+
+Dataset: **Operational Risk Events Dataset — Real and Simulated Banking Losses with Risk Factors and Classification**
+
+Source: Kaggle
+
+Dataset author/uploader: `ziya07`
+
+Link:
+https://www.kaggle.com/datasets/ziya07/operational-risk-events-dataset
+
+This project uses the dataset for educational and portfolio analysis purposes. The dataset contains both real and simulated/synthetic-labelled operational-risk observations; therefore, results should not be interpreted as representing the loss profile of any specific bank.
+
 ### Important Data Note
 
 The original `Date` column contains both normal calendar dates and the literal value `Synth-2022`.
